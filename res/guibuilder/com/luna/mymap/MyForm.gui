@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="GridLayout" gridLayoutRows="1" gridLayoutColumns="1"  title="MyForm" name="MyForm">
+  <component type="Container" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  scrollableX="false" name="Container_1">
+    <component type="Container" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="1" flowLayoutValign="0"  name="Container_2">
+      <component type="Container" name="Generic_Spinner_1">
+      </component>
+      <component type="Container" name="Date_&_Time_Spinner_1">
+      </component>
+    </component>
+    <component type="Tabs" name="Tabs_1">
+    </component>
+    <component type="Container" layout="LayeredLayout"  name="Container_3">
+      <component type="Container" layout="GridLayout" gridLayoutRows="1" gridLayoutColumns="1"  name="Container_4">
+        <component type="Container" name="Map_1_1_1_1">
+        </component>
+        <component type="MultiList" name="MultiList_1">
+                        </component>
+        <component type="CustomComponent" name="Custom_1_1_1">
+        </component>
+      </component>
+    </component>
+    <component type="Label" text="Label" name="Label_1_1_1">
+    </component>
+  </component>
+</component>
